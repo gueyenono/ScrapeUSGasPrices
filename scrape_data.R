@@ -78,4 +78,4 @@ if(!dir.exists(here("data", Sys.Date()))){
   dir.create(path = here("data", Sys.Date()))
 }
 
-readr::write_csv(master, here("data", paste0(Sys.Date(), ".html")))
+readr::write_csv(master, here("data", paste0(Sys.Date(), ".csv")))
