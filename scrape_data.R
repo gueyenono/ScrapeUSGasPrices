@@ -6,7 +6,11 @@ library(here)
 library(magrittr)
 
 
-# Generate state URLS ----------------------------------------------------
+# Is it legal to scrape data from the website?
+
+robotstxt::paths_allowed("https://www.gasprices.aaa.com/") # Yes!
+
+# Generate state URLS
 
 master <- 
   tibble(
@@ -73,9 +77,5 @@ master %<>%
 # Save data to disk
 
 # Create data folder for current gas prices (current means today) (if needed)
-
-if(!dir.exists(here("data", Sys.Date()))){
-  dir.create(path = here("data", Sys.Date()))
-}
 
 readr::write_csv(master, here("data", paste0(Sys.Date(), ".csv")))

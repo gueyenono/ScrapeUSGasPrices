@@ -1,0 +1,84 @@
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.1 
+2: package 'xml2' was built under R version 3.6.1 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'dplyr' was built under R version 3.6.1 
+
+Attaching package: 'purrr'
+
+The following object is masked from 'package:rvest':
+
+    pluck
+
+here() starts at C:/Windows/System32
+
+Attaching package: 'magrittr'
+
+The following object is masked from 'package:purrr':
+
+    set_names
+
+ www.gasprices.aaa.com                      
+
+[1] TRUE
+Warning message:
+In dir.create(path = here("html", Sys.Date())) :
+  cannot create dir 'C:\Windows\System32\html\2019-11-15', reason 'No such file or directory'
+Error in download.file(url = .x, destfile = here("html", Sys.Date(), paste0(.y,  : 
+  cannot open destfile 'C:/Windows/System32/html/2019-11-15/AK.html', reason 'No such file or directory'
+Calls: walk2 -> map2 -> .f -> download.file
+Execution halted
+Loading required package: xml2
+Warning messages:
+1: package 'rvest' was built under R version 3.6.1 
+2: package 'xml2' was built under R version 3.6.1 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'dplyr' was built under R version 3.6.1 
+
+Attaching package: 'purrr'
+
+The following object is masked from 'package:rvest':
+
+    pluck
+
+here() starts at C:/Windows/System32
+
+Attaching package: 'magrittr'
+
+The following object is masked from 'package:purrr':
+
+    set_names
+
+ www.gasprices.aaa.com                      
+
+[1] TRUE
+Warning message:
+In dir.create(path = here("html", Sys.Date())) :
+  cannot create dir 'C:\Windows\System32\html\2019-11-16', reason 'No such file or directory'
+Error in download.file(url = .x, destfile = here("html", Sys.Date(), paste0(.y,  : 
+  cannot open destfile 'C:/Windows/System32/html/2019-11-16/AK.html', reason 'No such file or directory'
+Calls: walk2 -> map2 -> .f -> download.file
+Execution halted
