@@ -1,0 +1,11 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|iteration|parent|children|seconds|warnings|error
+gasprice_full|stem|f90a35e26ea55c8a|3c4930bab06a9a9d|f7dc8cc0a3cc530e|3374068||t18901.2231296637s|ae83585fc99bb5be|11653|rds|vector|||21.41|package magrittr was built under R version 4.1.1|
+save_gasprice_data|stem|27236d47fd74a792|4ef3539953bc18e2|f4ad122c8f62031e|1306719134|F:/Projects/ScrapeUSGasPrices/data/2021-10-01-usa_gas_price.csv|t18902.047910727s|e3ceafcead945f4c|32496|file|vector|||0.01||
+scrape_state_page_urls|function|bd62f636591c86eb||||||||||||||
+generate_state_page_urls|function|92ea2613ce80d6de||||||||||||||
+state_page_urls|stem|270b2216282f272c|ab5dbcc8715289ee|87f3b94628b8ab4f|-1300619489||t18901.2225538792s|6453176ef81d15a3|290|rds|vector|||0.78|package magrittr was built under R version 4.1.1|
+gasprice_data|stem|9e9f0d0f13d8eb6e|f4d961f064a1a133|2d212f3336a35425|-1836756861||t18902.0825649821s|13c0144f8749ae1e|10306|rds|vector|||119.47||
+gasprice_data_state|stem|d7e986fc88224272|a2be23ef4338e3ba|31f87f4219a94c2a|1096686766||t18902.0825652087s|89118bcbb0602e03|1231|rds|vector|||0||
+gasprice_data_city|stem|b7d3e90d0db96edb|4bb1e5a04346fc54|bd5498913f25ac58|360677969||t18902.082565564s|36c99fba61151042|9741|rds|vector|||0||
+save_gasprice_data_state|stem|507e6a36b47a12ad|2619e4c25875017c|60915d81fb8fd6f4|-13362274|F:/Projects/ScrapeUSGasPrices/data/state/2021-10-01-usa_gas_price-state.csv|t18902.0840713792s|3314056bf3a47669|2365|file|vector|||0.31||
+save_gasprice_data_city|stem|ab09801d02ed14ba|78e80e6f963fe4a7|3503fd1388c8449c|-1461600324|F:/Projects/ScrapeUSGasPrices/data/city/2021-10-01-usa_gas_price-city.csv|t18902.0840716567s|513cd63adaa5a6bb|29611|file|vector|||0.02||
