@@ -35,7 +35,7 @@ list(
     out
   }),
   
-  ##
+  ## 
   
   tar_target(gasprice_data_state, {
     out <- gasprice_data[gasprice_data$location == "average", ]
