@@ -1,4 +1,4 @@
-pacman::p_load(targets)
+library(targets)
 
 # Source custom functions ----
 
