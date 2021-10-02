@@ -1,12 +1,16 @@
-library(rvest)
-library(dplyr)
-library(stringr)
-library(purrr)
-library(here)
-library(magrittr)
+# Load packages ----
+
+pacman::p_load(
+  rvest,
+  dplyr,
+  stringr,
+  purrr,
+  here,
+  magrittr
+)
 
 
-# Is it legal to scrape data from the website?
+# Is it legal to scrape data from the website? ----
 
 robotstxt::paths_allowed("https://www.gasprices.aaa.com/") # Yes!
 
