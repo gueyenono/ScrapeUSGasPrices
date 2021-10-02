@@ -24,7 +24,7 @@ list(
   tar_target(state_page_urls, generate_state_page_urls()),
   
   ##
-  tar_target(gasprice_data,
+  tar_target(gasprice_data, cue = tar_cue(mode = "always"),
              purrr::map_dfr(state_page_urls, scrape_state_page_urls) %>%
                relocate(date, .before = regular)),
   
