@@ -26,6 +26,7 @@ jobs:
     
     - name: Run scraper
       run: |
+        Rscript _targets.R
         R -e 'targets::tar_make()'
 
     # Add new files in data folder, commit along with other modified files, push
