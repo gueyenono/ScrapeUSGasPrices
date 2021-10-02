@@ -11,8 +11,7 @@ tar_option_set(packages = c(
   "stringr",
   "purrr",
   "here",
-  "glue",
-  "rvest"
+  "glue"
 ))
 
 
