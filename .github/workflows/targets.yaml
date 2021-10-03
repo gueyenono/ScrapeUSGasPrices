@@ -3,8 +3,9 @@ name: us_gas_prices_scraper
 
 # Controls when the action will run.
 on:
+  push:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: "*/5 * * * *""
 
 
 jobs: 
