@@ -5,7 +5,7 @@ name: us_gas_prices_scraper
 on:
   push:
   schedule:
-    - cron: "*/5 * * * *""
+    - cron: "*/5 * * * *"
 
 
 jobs: 
