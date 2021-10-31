@@ -3,9 +3,9 @@ gasprice_full|stem|f90a35e26ea55c8a|3c4930bab06a9a9d|f7dc8cc0a3cc530e|3374068||t
 save_gasprice_data|stem|27236d47fd74a792|4ef3539953bc18e2|f4ad122c8f62031e|1306719134|F:/Projects/ScrapeUSGasPrices/data/2021-10-01-usa_gas_price.csv|t18902.047910727s|e3ceafcead945f4c|32496|file|vector|||0.01||
 scrape_state_page_urls|function|bd62f636591c86eb||||||||||||||
 generate_state_page_urls|function|92ea2613ce80d6de||||||||||||||
-state_page_urls|stem|270b2216282f272c|ab5dbcc8715289ee|87f3b94628b8ab4f|-1300619489||t18930.8485406788s|dcfb5579c9d2f932|290|rds|vector|||0.78|package magrittr was built under R version 4.1.1|
-gasprice_data|stem|165fd0a913734df6|f4d961f064a1a133|5266a586fd31f893|-1836756861||t18930.8493529758s|2daeb582c86d065b|10338|rds|vector|||16.002||
-gasprice_data_state|stem|bd8b465408f8f7f5|a2be23ef4338e3ba|76d90cc11c1f0cba|1096686766||t18930.849353132s|019ac14fbe96bc4c|1259|rds|vector|||0.003||
-gasprice_data_city|stem|5190b209aad7fb91|4bb1e5a04346fc54|0a8330d3a42405a0|360677969||t18930.8493532584s|152e9293cee3af45|9784|rds|vector|||0.001||
-save_gasprice_data_state|stem|eaa490ce259cc807|2619e4c25875017c|2ce453b6d6ee40dd|-13362274|/Users/runner/work/ScrapeUSGasPrices/ScrapeUSGasPrices/data/state/2021-10-30-usa_gas_price-state.csv|t18930.8493533781s|7f2a484b6af6e7e1|2317|file|vector|||0.004||
-save_gasprice_data_city|stem|6880d9d598a42b6f|78e80e6f963fe4a7|c1f1bc361afa8d1e|-1461600324|/Users/runner/work/ScrapeUSGasPrices/ScrapeUSGasPrices/data/city/2021-10-30-usa_gas_price-city.csv|t18930.8493535395s|92c37ed49554e264|29170|file|vector|||0.007||
+state_page_urls|stem|270b2216282f272c|ab5dbcc8715289ee|87f3b94628b8ab4f|-1300619489||t18931.8486511302s|dcfb5579c9d2f932|290|rds|vector|||0.78|package magrittr was built under R version 4.1.1|
+gasprice_data|stem|a3cc5c85aee233d5|f4d961f064a1a133|5266a586fd31f893|-1836756861||t18931.8495452928s|f4f358ba00c564d4|10308|rds|vector|||32.425||
+gasprice_data_state|stem|e102f7efdfec98a6|a2be23ef4338e3ba|b8f568c7c4b83933|1096686766||t18931.8495453979s|33d5b6a054f849fe|1250|rds|vector|||0.002||
+gasprice_data_city|stem|f2005434c7fca603|4bb1e5a04346fc54|b451a19fdf9c4112|360677969||t18931.8495454935s|ddc739ff53b2bb84|9751|rds|vector|||0.001||
+save_gasprice_data_state|stem|6f14c3e31eac98d5|2619e4c25875017c|1d169b9a11a151a1|-13362274|/Users/runner/work/ScrapeUSGasPrices/ScrapeUSGasPrices/data/state/2021-10-31-usa_gas_price-state.csv|t18931.8495455854s|2e45baceaacabf03|2325|file|vector|||0.005||
+save_gasprice_data_city|stem|1e14a023f11d4760|78e80e6f963fe4a7|9a221fb7d124c750|-1461600324|/Users/runner/work/ScrapeUSGasPrices/ScrapeUSGasPrices/data/city/2021-10-31-usa_gas_price-city.csv|t18931.8495457151s|fa401cc727464551|29138|file|vector|||0.007||
