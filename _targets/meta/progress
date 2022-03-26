@@ -2,7 +2,11 @@ name|type|parent|branches|progress
 state_page_urls|stem|state_page_urls|0|skipped
 gasprice_data|stem|gasprice_data|0|started
 gasprice_data|stem|gasprice_data|0|built
-gasprice_data_state|stem|gasprice_data_state|0|skipped
-gasprice_data_city|stem|gasprice_data_city|0|skipped
-save_gasprice_data_state|stem|save_gasprice_data_state|0|skipped
-save_gasprice_data_city|stem|save_gasprice_data_city|0|skipped
+gasprice_data_state|stem|gasprice_data_state|0|started
+gasprice_data_state|stem|gasprice_data_state|0|built
+gasprice_data_city|stem|gasprice_data_city|0|started
+gasprice_data_city|stem|gasprice_data_city|0|built
+save_gasprice_data_state|stem|save_gasprice_data_state|0|started
+save_gasprice_data_state|stem|save_gasprice_data_state|0|built
+save_gasprice_data_city|stem|save_gasprice_data_city|0|started
+save_gasprice_data_city|stem|save_gasprice_data_city|0|built
