@@ -1,5 +1,6 @@
 name|type|parent|branches|progress
-state_page_urls|stem|state_page_urls|0|skipped
+state_page_urls|stem|state_page_urls|0|started
+state_page_urls|stem|state_page_urls|0|built
 gasprice_data|stem|gasprice_data|0|started
 gasprice_data|stem|gasprice_data|0|built
 gasprice_data_state|stem|gasprice_data_state|0|started
