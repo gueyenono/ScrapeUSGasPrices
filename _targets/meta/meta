@@ -1,9 +1,9 @@
 name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
-gasprice_data|stem|f65a0796fecafcaf|f4d961f064a1a133|83c480b990d9c0b0|-1836756861||t19139.8533641466s|4178d4380d8a68a5|10581|rds|local|vector|||17.03||
-gasprice_data_city|stem|59f2cc6a90e9ba84|4bb1e5a04346fc54|9738dc40d6998f63|360677969||t19139.8533707274s|173cf939fe16993c|10003|rds|local|vector|||0.001||
-gasprice_data_state|stem|b9f4ef4c1a0c1b2a|a2be23ef4338e3ba|cb159228f06b0584|1096686766||t19139.8533671807s|6a104a36980acf98|1320|rds|local|vector|||0.002||
+gasprice_data|stem|da427d4354f69eb1|f4d961f064a1a133|83c480b990d9c0b0|-1836756861||t19140.8522283185s|defdf5d1cc10e3dd|10629|rds|local|vector|||31.645||
+gasprice_data_city|stem|6a37ccad068d12a3|4bb1e5a04346fc54|29929ad9550956f9|360677969||t19140.8522285946s|14eb62665c22f3ae|10062|rds|local|vector|||0.001||
+gasprice_data_state|stem|6708f43cf6f1f14f|a2be23ef4338e3ba|f647af7fb8b2734d|1096686766||t19140.8522284957s|3ec9dcbe2ceb81bd|1298|rds|local|vector|||0.001||
 generate_state_page_urls|function|92ea2613ce80d6de|||||||||||||||
-save_gasprice_data_city|stem|d24cfe6773fa32a2|78e80e6f963fe4a7|5fc8ebf7e7b9f4a1|-1461600324|/Users/runner/work/ScrapeUSGasPrices/ScrapeUSGasPrices/data/city/2022-05-27-usa_gas_price-city.csv|t19139.8533772452s|39ea3ad3c8e20a3d|29142|file|local|vector|||0.091||
-save_gasprice_data_state|stem|9b2bedd3764c0d5f|2619e4c25875017c|8729c3ac2de6421f|-13362274|/Users/runner/work/ScrapeUSGasPrices/ScrapeUSGasPrices/data/state/2022-05-27-usa_gas_price-state.csv|t19139.8533737139s|7f2a484b6af6e7e1|2317|file|local|vector|||0.087||
+save_gasprice_data_city|stem|524584221b0a7fda|78e80e6f963fe4a7|9a44582deecf1f04|-1461600324|/Users/runner/work/ScrapeUSGasPrices/ScrapeUSGasPrices/data/city/2022-05-28-usa_gas_price-city.csv|t19140.8522288581s|05e046cc22b6344b|29157|file|local|vector|||0.007||
+save_gasprice_data_state|stem|2e690c283b1012b7|2619e4c25875017c|780a5cc98ba17403|-13362274|/Users/runner/work/ScrapeUSGasPrices/ScrapeUSGasPrices/data/state/2022-05-28-usa_gas_price-state.csv|t19140.8522287076s|cfb9eef7ba502408|2315|file|local|vector|||0.005||
 scrape_state_page_urls|function|bd62f636591c86eb|||||||||||||||
-state_page_urls|stem|6a38b7fba3622199|ab5dbcc8715289ee|87f3b94628b8ab4f|-1300619489||t19139.8515584232s|815c38d038fbe0c4|289|rds|local|vector|||0.359||
+state_page_urls|stem|6a38b7fba3622199|ab5dbcc8715289ee|87f3b94628b8ab4f|-1300619489||t19140.8509983453s|815c38d038fbe0c4|289|rds|local|vector|||0.359||
