@@ -1,9 +1,9 @@
 name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
-gasprice_data|stem|b51b1a31ffb9757f|f4d961f064a1a133|be04b8affdba3d24|150692596||t19734.8400894247s|2ca01874c5625db4|10527|rds|local|vector|||23.704||
-gasprice_data_city|stem|9a5f827fbbd8f563|4bb1e5a04346fc54|624dce507479236f|-919598917||t19734.8400895759s|5aadabb13a91b207|9945|rds|local|vector|||0||
-gasprice_data_state|stem|3334927e2f72567d|a2be23ef4338e3ba|624dce507479236f|1497705824||t19734.8400895031s|9d0b71d7308478d8|1268|rds|local|vector|||0.001||
+gasprice_data|stem|051772104c1a8acc|f4d961f064a1a133|be04b8affdba3d24|150692596||t19735.8398081469s|aeaa52e5d84d7397|10517|rds|local|vector|||27.104||
+gasprice_data_city|stem|55ca147f79d7ac8a|4bb1e5a04346fc54|9534f5210f5170b6|-919598917||t19735.839808357s|4fac43764e0d4950|9935|rds|local|vector|||0.001||
+gasprice_data_state|stem|b23a5e0907a9d48d|a2be23ef4338e3ba|9534f5210f5170b6|1497705824||t19735.8398082467s|dbaa92040c1584d5|1277|rds|local|vector|||0.001||
 generate_state_page_urls|function|92ea2613ce80d6de|||||||||||||||
-save_gasprice_data_city|stem|180c384202c561de|78e80e6f963fe4a7|b6b8657d1eac3e29|1440021142|/Users/runner/work/ScrapeUSGasPrices/ScrapeUSGasPrices/data/city/2024-01-12-usa_gas_price-city.csv|t19734.8400897479s|00e3aae255e5b811|29141|file|local|vector|||0.004||
-save_gasprice_data_state|stem|ef36a7bceec7cbfc|2619e4c25875017c|e03d44a17a128dbd|-1408213500|/Users/runner/work/ScrapeUSGasPrices/ScrapeUSGasPrices/data/state/2024-01-12-usa_gas_price-state.csv|t19734.8400896499s|1f28837014cbc95c|2320|file|local|vector|||0.004||
+save_gasprice_data_city|stem|5b430c653b1221da|78e80e6f963fe4a7|ad45b0339b33c19e|1440021142|/Users/runner/work/ScrapeUSGasPrices/ScrapeUSGasPrices/data/city/2024-01-13-usa_gas_price-city.csv|t19735.8398086983s|50346559b8a92b63|29131|file|local|vector|||0.012||
+save_gasprice_data_state|stem|94562e43f7b3fc5f|2619e4c25875017c|85cc6cf9d04c5abc|-1408213500|/Users/runner/work/ScrapeUSGasPrices/ScrapeUSGasPrices/data/state/2024-01-13-usa_gas_price-state.csv|t19735.8398084814s|1f28837014cbc95c|2320|file|local|vector|||0.004||
 scrape_state_page_urls|function|bd62f636591c86eb|||||||||||||||
-state_page_urls|stem|26eb52a2b88e3720|ab5dbcc8715289ee|87f3b94628b8ab4f|1175625744||t19734.8390774386s|dcfb5579c9d2f932|290|rds|local|vector|||0.139||
+state_page_urls|stem|26eb52a2b88e3720|ab5dbcc8715289ee|87f3b94628b8ab4f|1175625744||t19735.8388603243s|dcfb5579c9d2f932|290|rds|local|vector|||0.139||
