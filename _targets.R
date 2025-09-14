@@ -45,13 +45,13 @@ list(
   ##
   tar_target(save_gasprice_data_city, {
     write.csv(x = gasprice_data_city, file = here::here("data/city", paste0(Sys.Date(), "-usa_gas_price-city.csv")))
-    here::here("data/city", paste0(Sys.Date(), "-usa_gas_price-city.csv"))
+    here("data/city", paste0(Sys.Date(), "-usa_gas_price-city.csv"))
   }, format = "file"),
   
   ##
   tar_target(save_gasprice_data_state, {
     write.csv(x = gasprice_data_state, file = here::here("data/state", paste0(Sys.Date(), "-usa_gas_price-state.csv")))
-    here::here("data/state", paste0(Sys.Date(), "-usa_gas_price-state.csv"))
+    here("data/state", paste0(Sys.Date(), "-usa_gas_price-state.csv"))
   }, format = "file")
   
 )
